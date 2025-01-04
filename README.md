@@ -30,7 +30,7 @@ options:
 
 Ex: python3 main.py --dataset dataset\val.csv
 ```
-![XGBoost_ex](assets/ex.png)
+![XGBoost_ex](assets\ex.png)
 
 
 ## References
