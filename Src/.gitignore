@@ -1,0 +1,3 @@
+*.pkl
+*.gz
+xgb_model.gz
